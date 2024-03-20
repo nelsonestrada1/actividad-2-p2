@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+
+.caja1 {
+    background-image: url('Fondo.jpg');
+    color: white;
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid black;
+}
+
+.caja2 {
+    background-color: rgb(184, 255, 126);
+    color: navy;
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid black;
+}
+
+.caja3 {
+    background-color: lightblue;
+    color: darkblue;
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid black;
+    font-size: 24px;
+}
